@@ -12,9 +12,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Using a machine, I am learning how to make a machine intelligent. Data Science enthusiast and a Deep learning rookie who aims to utilize his skills to push the boundaries of AI research.
+# Using a machine, I am learning how to make a machine intelligent. <!-- Data Science enthusiast and a Deep learning rookie who aims to utilize his skills to push the boundaries of AI research. -->
 ### Currently working on IVR's, WebRTC and VOIP calling using .Net, VueJs and Twilio Api's.
 ### 🌱 I’m currently learning .Net 5.0 and VueJs.
 ### 👯 I’m looking to collaborate on Open source projects only!
-### 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/bilalmehrban/) OR [Twitter](https://twitter.com/bilalmehrban) OR [Stackoverflow](https://stackoverflow.com/users/6885654/bilal-mehrban)
+### 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/bilalmehrban/) **OR** [Twitter](https://twitter.com/bilalmehrban) **OR** [Stackoverflow](https://stackoverflow.com/users/6885654/bilal-mehrban)
 
