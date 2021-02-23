@@ -18,3 +18,5 @@
 ### 👯 I’m looking to collaborate on Open source projects only!
 ### 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/bilalmehrban/) **OR** [Twitter](https://twitter.com/bilalmehrban) **OR** [Stackoverflow](https://stackoverflow.com/users/6885654/bilal-mehrban)
 
+### Interesting Stat's
+![Bilal's stats](https://github-readme-stats.vercel.app/api?username=bilalmehrban&show_icons=true&count_private=true)
