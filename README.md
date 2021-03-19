@@ -20,3 +20,5 @@
 
 ### Interesting Stat's
 ![Bilal's stats](https://github-readme-stats.vercel.app/api?username=bilalmehrban&show_icons=true&count_private=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bilalmehrban&theme=onedark)](https://github.com/bilalmehrban)
