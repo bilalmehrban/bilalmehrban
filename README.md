@@ -1,22 +1,29 @@
-## Hi there 👋 I'm Bilal 
+<h1 align="center">Hi there, I'm Bilal Mehrban 👋😲</h1>
+<p align="center"> 
+ <a href="https://twitter.com/bilalmehrban" alt="twitter">
+   <img src="https://img.shields.io/badge/-@bilalmehrban-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
+ </a>
+ <a href="https://github.com/bilalmehrban" alt="mukesh's github">
+   <img src="https://img.shields.io/badge/-@bilalmehrban-%23181717?style=flat-square&logo=github" />
+ </a>
+ <a href="https://www.linkedin.com/in/bilalmehrban" alt="mukesh's linkedin">
+   <img src="https://img.shields.io/badge/-bilalmehrban-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bilalmehrban" />
+ </a>
+ <a>
+   <img src="https://komarev.com/ghpvc/?username=bilalmehrban&color=ff69b4&style=flat-square" />
+ </a>
+</p>
 
-<!--
-**bilalmehrban/bilalmehrban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Using a machine, I am learning how to make a machine intelligent!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Using a machine, I am learning how to make a machine intelligent. <!-- Data Science enthusiast and a Deep learning rookie who aims to utilize his skills to push the boundaries of AI research. -->
-### Currently working on IVR's, WebRTC and VOIP calling using .Net, VueJs and Twilio Api's.
-### 🌱 I’m currently learning .Net 5.0 and VueJs.
-### 👯 I’m looking to collaborate on Open source projects only!
-### 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/bilalmehrban/) **OR** [Twitter](https://twitter.com/bilalmehrban) **OR** [Stackoverflow](https://stackoverflow.com/users/6885654/bilal-mehrban)
+>I’m a software engineer specializing in building Web Applications. I love building WebApplication using ASP.NET Core, Vuejs. As for the backend, I work with ASP.NET Core WebAPIs following SOLID Principles & Clean Architecture Principles. 
+
+#### 💻 Open Source Contributions
+
+I always make sure that I find enough time for open source contribution that helps me to expand my knowledge and work with other developers and teams globally.
+
+#### Trivia
+- 🦸 Endorse me / Leave a Recommendation on Linkedin [@bilalmehrban](https://www.linkedin.com/in/bilalmehrban/)
 
 ### Interesting Stat's
 ![Bilal's stats](https://github-readme-stats.vercel.app/api?username=bilalmehrban&show_icons=true&count_private=true)
