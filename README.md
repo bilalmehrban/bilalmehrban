@@ -18,6 +18,12 @@
 
 >I’m a software engineer specializing in building Web Applications. I love building WebApplication using ASP.NET Core, Vuejs. As for the backend, I work with ASP.NET Core WebAPIs following SOLID Principles & Clean Architecture Principles. 
 
+### 📘 I’m currently reading...
+>Clean Code by Robert C. Martin aka Uncle Bob
+
+>Head First Design Patterns by Eric Freeman, Elisabeth Freeman, Bert Bates, Kathy Sierra
+### 🥅 2022 Goals: Contribute more to Open Source projects
+
 #### 💻 Open Source Contributions
 
 I always make sure that I find enough time for open source contribution that helps me to expand my knowledge and work with other developers and teams globally.
