@@ -22,7 +22,7 @@
 >Clean Code by Robert C. Martin aka Uncle Bob
 
 >Head First Design Patterns by Eric Freeman, Elisabeth Freeman, Bert Bates, Kathy Sierra
-### 🥅 2025 Goals: Contribute more to Open Source projects
+### 🥅 2026 Goals: Contribute more to Open Source projects
 
 #### 💻 Open Source Contributions
 
